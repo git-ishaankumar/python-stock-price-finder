@@ -109,7 +109,7 @@ def choose():
     elif choice == "3":
         download()
     elif choice == "4":
-        sys.exit("\nThanks for using Stock Market Information Finder! 👋")
+        sys.exit("\nThanks for using Stock Market Price Finder! 👋")
 
 
 
